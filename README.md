@@ -1,6 +1,5 @@
 <!-- Banner -->
-<img src="./Escritorio/baner.png" alt="banner" width="100%" />
-
+<img src="./assets/baner.png" alt="banner" width="100%" />
 
 <!-- Saludo -->
 <h1 align="center">¡Hola! 👋 Soy Rubén Campos Cardoso</h1>
@@ -14,7 +13,6 @@
 🌟 Lenguajes con los que he trabajado: Java, JavaScript, Vue.js, HTML & CSS.  
 🏄‍♂️ Me apasiona el Kitesurf, el snowboard y viajar.  
 
-
 ---
 
 <!-- Enlaces sociales -->
@@ -26,7 +24,6 @@
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
 </p>
-
 
 ### 🧰 Tecnologías favoritas
 
