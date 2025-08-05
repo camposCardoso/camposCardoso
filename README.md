@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/camposCardoso/camposCardoso/main/assets/baner.png" alt="banner" width="100%" />
+<img src="./assets/baner.png" alt="banner" width="100%" />
+
 
 <!-- Saludo -->
 <h1 align="center">¡Hola! 👋 Soy Rubén Campos Cardoso</h1>
