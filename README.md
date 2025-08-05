@@ -1,8 +1,9 @@
+<!-- Saludo -->
+<h1 align="center">¡Hola! 👋 Soy Rubén Campos Cardoso</h1>
+
 <!-- Banner -->
 <img src="./assets/baner.png" alt="banner" width="100%" />
 
-<!-- Saludo -->
-<h1 align="center">¡Hola! 👋 Soy Rubén Campos Cardoso</h1>
 
 ### Sobre mí
 
