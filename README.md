@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./assets/baner.png" alt="banner" width="100%" />
+<img src="./Escritorio/baner.png" alt="banner" width="100%" />
 
 
 <!-- Saludo -->
