@@ -10,8 +10,7 @@
 💻 Desarrollador Front-End developer.  
 📚 Desarrollador web con Ironhack & IFP.  
 📝 Tengo un gran interés en el mundo de la tecnología y con el desarrollo web.  
-🎓 En constante aprendizaje.  
-🌟 Lenguajes con los que he trabajado: Java, JavaScript, Vue.js, HTML & CSS.  
+🎓 En constante aprendizaje.   
 🏄‍♂️ Me apasiona el Kitesurf, el snowboard y viajar.  
 
 ---
