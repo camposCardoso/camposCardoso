@@ -26,7 +26,7 @@
   </a>
 </p>
 
-### 🧰 Tecnologías favoritas
+### 🧰 Tecnologías con las que he trabajado
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue" />
